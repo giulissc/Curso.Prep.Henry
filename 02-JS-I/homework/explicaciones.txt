@@ -1,0 +1,20 @@
+#Variables: Las variables almacenan datos, por ejemplo el nombre y la edad de una persona. Algo como nombre="Pedro Picapiedras", edad = 35. Las variables pueden contener muchos tipos de datos, tales como números, caracteres y valores Booleanos (verdadero o falso) como muchos otros.
+
+
+#Strings: las "Strings" son un tipo de dato que puede almacenarse en una variable o mostrarse en pantalla. Las strings son caracteres, frases o bloques de texto que van siempre entre comillas. Por ejemplo :
+
+var nombre= "Pedro";
+
+
+#Funciones: las funciones pueden denominarse como "objetos" que pueden utilizarse varias veces dentro de un codigo para cumplir distintas tareas. Por ejemplo una linea de codigo que me permita  sumar 2 numeros, y en caso de que necesite sumar 2 numeros simpllemente llame a la funcion, le diga que numeros quiero sumar y no tenga que volver a gastar mi tiempo en programarlo de nuevo.
+
+Entonces las funciones estan programadas para cumplir una funcion determinada, y pueden ser "invocadas" dentro del codigo.
+
+Los argumentos dentro de una funcion pueden servir para, cuando "invoquemos" a la funcion ya programada, darle un valor a la variable declarada en ese argumento. Por  ejemplo especificarle que numeros quiero que sean sumados.
+
+Return es el comando que devuelve la informacion procesada en una funcion,  y una funcion siempre debe devolver algo. Return es la unica forma en la que una funcion se comunica con el codigo que la "invoca" y a la vez es la ultima linea que se ejecuta en el codigo de la funcion para que esta finalice. 
+
+
+#Declaraciones: las declaraciones con secuencias de codigo para la verificacion, la comparacion y para tener un flujo dentro de un programa. Por ejemplo la secuencia "if" nos permite verificar el valor de verdad de una variable. Ingresamos primero una condicion y luego una secuencia de acciones si se cumple la condicion. Y con "else" podemos ingresar una secuencia de acciones si la condicion no se cumple.
+
+#Valores Booleanos: los valores Booleanos provienen de la lógica de Boole. Los valores Booleanos pueden ser "true" para verdadero y "false" para falso. Solo hay 2 opciones. Este concepto es en lo que se basan las computadoras al usar el codigo binario (0101110) 1 o 0. Activar o desactivar.
